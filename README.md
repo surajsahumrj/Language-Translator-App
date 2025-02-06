@@ -15,7 +15,7 @@ A simple and interactive **Language Translator App** built using **HTML, CSS, an
 - **JavaScript** - Handles logic, API requests, and DOM manipulation.
 
 ## 🎥 Demo
-[Live Demo](#) 
+[Live Demo](https://languagetranslating.netlify.app) 
 
 ## 📦 Installation
 1. **Clone the repository**:
